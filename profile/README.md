@@ -1,5 +1,5 @@
-![large](https://github.com/user-attachments/assets/4c59dbb9-51c7-42dc-a0bf-8e9ab542c43c)
+![large](https://github.com/user-attachments/assets/a5e5bf42-2c12-4877-9e7a-7720504769cc)
 
-**hrtplanner**
 
-Social and medical transitioning planning, done locally.
+**hrtplanner**   
+social and medical transitioning planning done locally
